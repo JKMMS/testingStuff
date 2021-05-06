@@ -11,7 +11,7 @@ int main (void){
   printf("Digite outro numero: ");
   scanf("%i", &y);
 
-  printf("A soma de %i e %i resulta em %i.", x, y, x + y);
+  printf("A soma de %i e %i resulta em %i!", x, y, x + y);
 
   return 0;
 
