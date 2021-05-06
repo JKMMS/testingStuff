@@ -2,4 +2,4 @@
 
 ## Multiplicador
 
-Programa em C que multiplicaa dois valores
+Programa em C que multiplica dois valores
