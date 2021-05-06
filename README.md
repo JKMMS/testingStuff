@@ -1,5 +1,5 @@
 # testingStuff
 
-## Multiplicador
+## Somador
 
-Programa em C que multiplica dois valores
+Programa em C que soma dois valores
