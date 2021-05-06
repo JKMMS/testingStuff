@@ -1,9 +1,9 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include <stdio.h>  //Biblioteca padrão de entrada e saida de dados
+#include <stdlib.h> //Biblioteca padrão das outras coisas
 
-int main (void){
+int main (void){ //Funcção principal
 
-  int x = 0, y = 0;
+  int x = 0, y = 0; //Declaração de duas variaveis inteiras chamadas x e y inicializadas em 0
 
   printf("Digite um numero: ");
   scanf("%i", &x);
